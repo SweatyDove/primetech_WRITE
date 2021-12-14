@@ -1,4 +1,4 @@
-# primtech_WRITE
+# primetech_WRITE
 
 Программа записывает строки в базу данных
 
